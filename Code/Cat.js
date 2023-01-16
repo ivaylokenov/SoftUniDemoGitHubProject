@@ -1,4 +1,0 @@
-class Cat {
-    name;
-    age;
-}
